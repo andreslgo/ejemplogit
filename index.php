@@ -6,7 +6,7 @@
 	<style>
 
 		body{
-			background: blue;
+			background: yellow;
 		}
 
 	</style>
