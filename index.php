@@ -16,6 +16,7 @@
 	<h2>Sistema de Control de Versiones</h2>
 	<p>
 		<img src="https://pbs.twimg.com/profile_images/490231963182055424/GpvVDG4r.jpeg" width="200">
+		<br>
 		Nelson Andres Luque Gonzalez	
 	</p>
 </body>
